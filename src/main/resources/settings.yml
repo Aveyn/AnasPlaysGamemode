@@ -1,0 +1,17 @@
+###########################################
+#                                         #
+#              Settings For               #
+#         AnasPlays Event Server          #
+#                                         #
+#                                         #
+#               Coded By:                 #
+#           Kocht / Phoners               #
+#                                         #
+###########################################
+
+# Spawn Configuration
+SPAWN:
+  WORLD: "World"
+  X: 100
+  Y: 100
+  Z: 100

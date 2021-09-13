@@ -1,0 +1,22 @@
+###########################################
+#                                         #
+#              Messages For               #
+#         AnasPlays Event Server          #
+#                                         #
+#                                         #
+#               Coded By:                 #
+#           Kocht / Phoners               #
+#                                         #
+###########################################
+
+MESSAGES:
+  ONLY-PLAYERS: "&cAlleen spelers kunnen dit commando uitvoeren!"
+  NO-PERMISSION: "&b&lKies &8» &fJe hebt geen toegang tot dit commando!"
+
+  JOIN-MESSAGE:
+    - "&7&m---------------------------------------------------"
+    - "&fWelkom &b%player%&f op &b&lAnasPlays&f Event server!"
+    - "&fWij wensen namens het &bstaff-team&f jou veel plezier!"
+    - " "
+    - "&b&lDiscord &8» &fhttps://discord.gg/f9MBcangVY"
+    - "&7&m---------------------------------------------------"

@@ -1,0 +1,18 @@
+name: Kies
+version: '${project.version}'
+main: nl.kocht.kies.Kies
+api-version: 1.17
+authors: [ Kocht, Phoners ]
+description: Event.anasplays.nl a new gamemode for the server
+website: nl.milan
+
+commands:
+  mod:
+    description: Enter Mod Mode
+    aliases:
+      - staff
+      - sm
+      - modmode
+      - host
+  kieshelp:
+    description: Shows the help page of the plugin
